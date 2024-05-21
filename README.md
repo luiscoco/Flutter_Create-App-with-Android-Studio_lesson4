@@ -27,20 +27,27 @@ We see the folders and files new Flutter project structure
 
 ## 4. How to run the application in Chrome (web)
 
-We 
+We select Chrome (web) in the dropdown list:
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/7f61a3d3-e11b-4643-a10e-099cac036bbf)
 
-We can verify the application running
+We can verify the application is running
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/e9b398ae-0146-4dd7-b57b-4398cf0547be)
 
 
 ## 5. How to run the application in 
 
+We select Windows (desktop) in the dropdown list:
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/df5876c5-f8a1-43a7-b71e-e8d2c47e15d6)
+
+## 6. How to run the application in a Mobile Device Simulator
 
 
-## 6. Application Source Code
+
+
+## 7. Application Source Code
 
 ### 6.1. Import material library
 
