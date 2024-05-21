@@ -35,8 +35,7 @@ We can verify the application is running
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/e9b398ae-0146-4dd7-b57b-4398cf0547be)
 
-
-## 5. How to run the application in 
+## 5. How to run the application in Windows (desktop)
 
 We select **Windows (desktop)** in the dropdown list:
 
@@ -73,6 +72,8 @@ We verify the application in running in the Mobile simulator
 We press the **+** button and we see the counter value is increasing each time we press that button
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/8a0dcf82-8b0f-40cd-8da6-d62a9c85808d)
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/05874382-71c9-443f-a58d-cf9bf8bb9b46)
 
 ## 7. Application Source Code
 
