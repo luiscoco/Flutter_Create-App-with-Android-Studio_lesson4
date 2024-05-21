@@ -1,2 +1,5 @@
-# Flutter_Create-App-with-IntelliJ_lesson4
-How to create my first Flutter application with IntelliJ IDEA Community Edition
+# How to create my first Flutter application with Android Studio
+
+## 1. Run Android Studio
+
+## 2. 
