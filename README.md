@@ -64,6 +64,15 @@ Then we have separate window for the device
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/c76cdf9f-55db-414c-8f58-a8a09f1466c0)
 
+Now for running the application we select the device in the dropdonw list **Pixel 7 PRO API 34 (mobile)** and then we press the **play** button 
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/a736d742-e2f9-405d-a206-658df712c6e0)
+
+We verify the application in running in the Mobile simulator
+
+We press the **+** button and we see the counter value is increasing each time we press that button
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/8a0dcf82-8b0f-40cd-8da6-d62a9c85808d)
 
 ## 7. Application Source Code
 
