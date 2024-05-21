@@ -27,7 +27,7 @@ We see the folders and files new Flutter project structure
 
 ## 4. How to run the application in Chrome (web)
 
-We select Chrome (web) in the dropdown list:
+We select **Chrome (web)** in the dropdown list:
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/7f61a3d3-e11b-4643-a10e-099cac036bbf)
 
@@ -38,18 +38,36 @@ We can verify the application is running
 
 ## 5. How to run the application in 
 
-We select Windows (desktop) in the dropdown list:
+We select **Windows (desktop)** in the dropdown list:
 
 ![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/df5876c5-f8a1-43a7-b71e-e8d2c47e15d6)
 
 ## 6. How to run the application in a Mobile Device Simulator
 
+We select the **Device Manager** button
 
+We create a new Device pressing the button **Create Device**
+
+After creating the device we select the **Launch this AVD in the emulator** button
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/7a4aadc5-3e86-4ac2-b6de-a6b30a9daf53)
+
+We can see the new Mobile Device Simulator is running
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/1641824c-25bc-43f1-bf30-2b396e2c1f65)
+
+If we want to increase the Device size we first press in the **Window** button
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/13cfe571-c384-48db-a7d7-5b5d6c3cce40)
+
+Then we have separate window for the device 
+
+![image](https://github.com/luiscoco/Flutter_Create-App-with-Android-Studio_lesson4/assets/32194879/c76cdf9f-55db-414c-8f58-a8a09f1466c0)
 
 
 ## 7. Application Source Code
 
-### 6.1. Import material library
+### 7.1. Import material library
 
 We first import the **material.dart** library
 
@@ -57,7 +75,7 @@ We first import the **material.dart** library
 import 'package:flutter/material.dart';
 ```
 
-### 6.2. Run the application calling the main() function
+### 7.2. Run the application calling the main() function
 
 We run the application inside the **main()** function:
 
@@ -67,7 +85,7 @@ void main() {
 }
 ```
 
-### 6.3. We create the application object extending the abstract class StatelessWidget 
+### 7.3. We create the application object extending the abstract class StatelessWidget 
 
 We create a **StatelessWidget** object called **MyApp**:
 
@@ -93,7 +111,7 @@ As you see inside the **MyApp** StatelessWidget we set the application **title**
 
 Also inside the **MyApp** StatelessWidget we create a new **MyHomePage** StatefulWidget
 
-### 6.4. We create a new page called "MyHomePage" extending the abstract class StatefulWidget
+### 7.4. We create a new page called "MyHomePage" extending the abstract class StatefulWidget
 
 We create a new **State** inside the **MyHome**
 
@@ -108,7 +126,7 @@ class MyHomePage extends StatefulWidget {
 }
 ```
 
-### 6.5. We define the code for maniging the page MyHomePage state
+### 7.5. We define the code for maniging the page MyHomePage state
 
 ```dart
 class _MyHomePageState extends State<MyHomePage> {
@@ -151,7 +169,7 @@ class _MyHomePageState extends State<MyHomePage> {
 }//class _MyHomePageState extends State<MyHomePage>
 ```
 
-### 6.6. Application whole source code:
+### 7.6. Application whole source code:
 
 The application source code is defined in the file **lib/main.dart**:
 
